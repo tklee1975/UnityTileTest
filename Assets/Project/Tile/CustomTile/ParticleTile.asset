@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ede817d0e3eed42809ad6576e9c90418, type: 3}
+  m_Name: ParticleTile
+  m_EditorClassIdentifier: 
+  particlePrefab: {fileID: 1942215803737174, guid: 3eea428afde644b7189649167949749f,
+    type: 2}
+  previewSprite: {fileID: 21300084, guid: 9df68f5b04ec643c0a103b0be08d6fe0, type: 3}

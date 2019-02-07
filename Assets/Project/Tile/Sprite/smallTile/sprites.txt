@@ -1,0 +1,19 @@
+{"frames": {
+	"pokemon_tiles2_01.png":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":0,"y":18,"w":16,"h":16},
+		"spriteSourceSize": {"x":0,"y":0,"w":16,"h":16},
+		"sourceSize": {"w":16,"h":16}
+	},
+	"pokemon_tiles2_02.png":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":0,"y":0,"w":16,"h":16},
+		"spriteSourceSize": {"x":0,"y":0,"w":16,"h":16},
+		"sourceSize": {"w":16,"h":16}
+	}
+},
+"meta": {
+	"app": "ShoeBox",
+	"size": {"w":36,"h":36}
+}
+}
